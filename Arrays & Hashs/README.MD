@@ -7,3 +7,4 @@
 - [5- Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 - [6- Last of word](https://leetcode.com/problems/length-of-last-word/)
 - [7- Two Sum](https://leetcode.com/problems/two-sum/)
+- [8- Logest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
