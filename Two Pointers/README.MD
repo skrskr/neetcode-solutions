@@ -1,4 +1,6 @@
 # Problems 
 
 - [1- Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-- [1- Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+- [2- Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+- [3- Minimum Difference Between Highest And Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
+- [4- Merge Strings Alternatly](https://leetcode.com/problems/merge-strings-alternately/)
