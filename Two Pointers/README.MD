@@ -6,3 +6,4 @@
 - [4- Merge Strings Alternatly](https://leetcode.com/problems/merge-strings-alternately/)
 - [5- Reverse String](https://leetcode.com/problems/reverse-string/)
 - [6- Merge sorted array](https://leetcode.com/problems/merge-sorted-array/)
+- [7- Move Zeros](https://leetcode.com/problems/move-zeroes/)
